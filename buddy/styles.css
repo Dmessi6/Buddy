@@ -1,0 +1,17 @@
+body {
+    font-family:monospace;
+  }
+  
+  input,
+  button {
+    height: 2rem;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  form > * {
+    margin: 1rem;
+  }
